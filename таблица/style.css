@@ -1,0 +1,511 @@
+
+body {
+    margin: 0;
+}
+
+.ttt {
+    background-image: url(OOO.png);
+    height: 100vh;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 750px;
+        flex-wrap: wrap;
+}
+
+
+.gaz {
+    display: flex;
+}
+.kr {
+    color: #0F4898;
+    font-weight: 900;
+font-size: 36px;
+font-family: 'PT Sans', sans-serif;
+}
+.gz {
+  
+    width: 64px;
+    height: 43px;
+    font-family: 'Roboto';
+    font-weight: 900;
+    font-size: 40px;
+    color: #FFFFFF;
+    
+}
+.zzz {
+    padding-top: 33px;
+    display: flex;
+    align-items: center;
+    font-weight: 900;
+    font-size: 19px;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+.ddd:hover {
+    color: indigo;
+}
+.ddd {
+    color: #fff;
+    text-decoration: none;
+    font-family: 'PT Sans', sans-serif;
+    font-weight: 400px;
+    font-size: 13px;
+    margin-right: 25px;
+   
+    transition: color 0.3s linear;
+}
+.iii {
+    
+width: 1428px;
+height: 0px;
+left: 0px;
+top: 10px;
+
+
+}
+.e {
+   margin-top: 10px;
+    border: 1px solid #FFFFFF;
+   
+  
+    
+}
+.zzz {
+    color: rgb(68, 0, 255);
+    flex-wrap: wrap;
+}
+
+.number {
+    color: #fff;
+    margin: 0;
+}
+.DDD {
+    position: absolute;
+width: 427px;
+height: 450px;
+left: 800px;
+top: 850px;
+
+
+
+}
+.u{
+    margin:154px 4px 1px 210px;
+    left: 300px;
+    top: 150px;
+}
+.ui {
+   top: 0px;
+   left: 0px;
+   width: 1000px;
+   height: 580px;
+}
+.asty {
+   background-color:#E5E5E5;
+   height: 550px;
+}
+.pro {
+    margin: 0px 0px 0px 350px;
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 700;
+font-size: 30px;
+line-height: 35px;
+
+color: #000000;
+
+}
+.pro1 {
+   
+margin: 30px 0px 0px 350px;
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 300;
+font-size: 16px;
+
+
+color: #000000;
+}
+.x {
+   
+width: 428px;
+height: 200px;
+margin: 89px 2px 38px 344px;
+display: flex;
+justify-content: center;
+align-items: center;
+background: #FFFFFF;
+box-shadow: 0px 0px 20px rgba(224, 224, 224, 0.25);
+}
+.zh {
+
+
+font-family: 'Montserrat';
+
+font-weight: 600;
+font-size: 15px;
+
+color: #000000;
+}
+.box {
+    box-sizing: border-box;
+
+position: absolute;
+width: 40px;
+height: 40px;
+left: 417px;
+top: 1152px;
+display: flex;
+justify-content: center;
+align-items: center;
+
+border: 1px solid #585858;
+}
+.bo {
+    box-sizing: border-box;
+
+position: absolute;
+width: 40px;
+height: 40px;
+left: 361px;
+top: 1152px;
+display: flex;
+justify-content: center;
+align-items: center;
+
+border: 1px solid #585858;
+}
+.www{
+    flex-wrap: wrap;
+}
+
+.tk {
+    margin: 26px 0px 0px 360px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 30px;
+    line-height: 35px;
+    position: absolute;
+    color: #000000; 
+    
+}
+.kt {
+   margin: 63px  0px 0px 360px;
+    
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 16px;
+    line-height: 19px;
+    position: absolute;
+    color: #000000;
+    flex-wrap: wrap;
+}
+
+
+    
+
+.fgh {
+    margin: 0px 0px -285px 356px;
+    width: 255px;
+    top: 1603px;
+    height: 200px;
+}
+.fgh2 {
+    margin: 0px 0px -285px 19px;
+    width: 255px;
+    top: 1603px;
+    height: 200px;
+}
+.fgh3 {
+    margin: 0px 0px -285px 19px;
+    width: 255px;
+    top: 1603px;
+    height: 200px;
+}
+.rif {
+    
+    
+    margin: 6px 0px 0px 35px;
+    font-family: 'PT Sans', sans-serif;
+}
+.rif2 {
+    
+    margin: 6px 0px 0px 321px;
+    font-family: 'PT Sans', sans-serif;
+}
+.rif3 {
+    
+    margin: 6px 0px 0px 610px;
+    font-family: 'PT Sans', sans-serif;
+}
+.al {
+    
+    
+    margin: 289px 0px 3px 365px;
+    font-family: 'PT Sans', sans-serif;
+    font-size: 20px;
+    font-weight: 500;
+}
+.al2 {
+    
+    margin: -55px 0px 0px 652px;
+    font-family: 'PT Sans', sans-serif;
+    font-size: 20px;
+    font-weight: 500;
+}
+.al3 {
+    
+    margin: -56px 0px 0px 947px;
+    font-family: 'PT Sans', sans-serif;
+    font-size: 20px;
+    font-weight: 500;
+}
+.go {
+    
+    margin: 5px 0px 0px 365px;
+    font-family: 'PT Sans', sans-serif;
+    font-size: 15px;  
+}
+.go2 {
+    position: absolute;
+    margin: -119px 0px 0px 948px;
+    font-family: 'PT Sans', sans-serif;
+    font-size: 15px;
+    
+}
+.go3 {
+   
+    margin: -119px 0px 0px 650px;
+    font-family: 'PT Sans', sans-serif;
+    font-size: 15px;
+}
+.cv {
+    background-color: #0F4898;
+    color: #fff;
+    text-decoration: none;
+    padding: 14px 18px;
+    margin: 3px 0px 0px 366px;
+    position: absolute;
+}
+.cv2 {
+    position: absolute;
+    background-color: #0F4898;
+    color: #fff;
+    text-decoration: none;
+    padding: 14px 18px;
+    margin: 3px 0px 0px 647px;
+   
+}
+.cv3 {
+    position: absolute;
+    margin: 0px 0px 0px 948px;
+    background-color: #0F4898;
+    color: #fff;
+    text-decoration: none;
+    padding: 14px 18px;
+    
+    
+}
+
+.qwe {
+    position: relative;
+    margin: 0px 0px 0px 0px;
+}
+.jo {
+   background-color: #323232;
+   margin-top: 72px;
+   display: grid;
+   justify-content: center;
+   align-items: center;
+   height: 125px;
+   color: #fff;
+   margin-left: 0px;
+}
+.t {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+.i {
+    margin-right: 20px;
+}
+.y {
+    margin-right: 20px;
+}
+.d{
+    margin-right: 20px;
+}
+@media screen and (max-width:900px) {
+   .ui {
+        margin-top: 200px;
+        margin-left: 2000px;
+        height: 600px;
+        width: 600px;
+   }
+    .gaz {
+        visibility: hidden;
+    }
+    .iii{
+        flex-wrap: wrap;
+        width: auto;
+        margin-left: 20px;
+    }
+    .number{
+        visibility: hidden;
+    }
+    .e {
+        margin-top: 0px;
+    }
+    .pro {
+        width: auto;
+        height: auto;
+        left: 50px;
+
+        font-size: 15px;
+    }
+    .pro1{
+        width: auto;
+        height: auto;
+        font-size: 15px;
+        left: 50px;
+    }
+    .x{
+        margin-top: 44px;
+        margin-left: 15px;
+        width: 360px;
+        height: 186px;
+}
+         
+    }
+    .zh{
+        font-weight: 600;
+        font-size: 13px;
+        margin-top: 0px;
+        margin-left: 0px;
+    }
+    .DDD{
+        width: 250px;
+        height: 200px;
+        left: 70px;
+        top: 1170px;
+    }
+    .box{
+        width: 40px;
+        height: 40px;
+        left: 50px;
+        top: 1400px;
+    }
+    .bo{
+        width: 40px;
+        height: 40px;
+        left: 100px;
+        top: 1400px;
+    }
+    .u{
+        left: 50px;
+        top: 250px;
+    }
+    .usty{
+        flex-wrap: wrap;
+        left: 50px;
+    }
+
+    .tk{
+        width: auto;
+        height: auto;
+        left: 50px;
+        font-size: 15px;
+    }
+    .kt {
+        width: auto;
+        height: auto;
+        font-size: 15px;
+        left: 50px;
+    }
+    .tai{
+        visibility: hidden;
+    }
+    .fgh{
+        width: 250px;
+        height: 200px;
+        left: 60px;
+        top: 1600px;
+    }
+    .rif{
+        left: 50px;
+        top: 1440px;
+    }
+    .al{
+        left: 50px;
+        top: 1425px;
+        font-size: 15px;
+    }
+    .go3{
+        left: 50px;
+        top: 1400px;
+        font-size: 15px;
+    }
+    .cv{
+        left: -302px;
+        top: 1400px;
+        font-size: 13px;
+    }
+    .fgh2{
+        width: 250px;
+        height: 200px;
+        left: 60px;
+        top: 2100px;
+    }
+    .rif2{
+        left: -220px;
+        top: 1957px;
+    }
+    .al2 {
+        left: -240px;
+        top: 1944px;
+        font-size: 15px
+    }
+    .go2{
+        left: -240px;
+        top: 1918px;
+        font-size: 15px;
+    }
+    .cv2 {
+        left: -594px;
+        top: 1000px;
+        font-size: 13px;
+    }
+    .fgh3{
+        width: 250px;
+        height: 200px;
+        left: 60px;
+        top: 2615px;
+    }
+    .rif3{
+        left: -495px;
+        top: 2455px;
+    }
+    .al3{
+        left: -516px;
+        top: 2444px;
+        font-size: 15px
+    }
+    .go{
+        left: -516px;
+        top: 2417px;
+        font-size: 15px
+    }
+    .cv3{
+        left: -884px;
+        top: 2428px;
+        font-size: 15px 
+    }
+    .jo{
+        margin-top: 1668px;
+    }
+    .m{
+        visibility: hidden;
+    }

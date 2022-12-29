@@ -1,0 +1,133 @@
+.body {
+    margin: 0px;
+}
+
+
+.header {
+    background-image: url(header.png.jpg);
+    height: 5vh;
+    padding-top: 17px;
+    background-size: cover;
+}
+.world {
+    background-image: url(come.png.jpg);
+    padding-top: 36px;
+    background-size: cover;
+}
+.porter {
+    display: flex;
+     justify-content: space-around;
+}
+.box {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    
+}
+
+
+
+.nav-item {
+    color: #fff;
+    text-decoration: none;
+    font-weight: 400px;
+    font-size: 14px;
+    font-family: 'PT Sans', sans-serif;
+
+
+    margin-right: 25px;
+   transition: color 0.3s linear;
+
+}
+
+.nav-item:hover {
+    color: rgb(243, 5, 5);
+
+}
+
+.exit {
+    padding-right: 20px;
+}
+
+.number {
+    color: #fff;
+    text-decoration: none;
+}
+
+.FFF {
+    background-image: url(back.png.jpg);
+    background-repeat: no-repeat;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    
+    background-size: cover;
+    
+}
+.GGG {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    width: 320px;
+    height: 320px;
+    border: #fff solid 5px;
+    content: "";
+    margin: 100px 0px 0px 0px;
+    
+}
+
+.CCC {
+    border: none;
+    background-color: white;
+    content: "";
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    width: 190px;
+    height: 2px;
+}
+.class {
+    color: #fff;
+    align-items: center;
+   
+    display: flex;
+    justify-content: center;
+    font-size: 16px;
+    margin:20px 200px;
+    font-weight: 400;
+   padding: 50px 0px 100px 0px;
+}
+
+.zip {
+    background-image: url(Rectangle.jpg.jpg);
+    height: 499px;
+    width: 750px;
+}
+.sss {
+    color: #fff;
+    font-size: 36px;
+    display: flex;
+    justify-content: space-around;
+}
+
+.watch-colders {
+    display: flex;
+    justify-content: space-between;
+}
+
+
+.watch {
+    display: flex;
+    justify-content: center;
+    background-color: rgba(143, 140, 140, 0.657);
+    width: 260px;
+}
+.header-desk {
+    display: flex;
+    justify-content: center;
+    color: #fff;
+    width: 33%;
+}
